@@ -1,0 +1,6 @@
+div.header{
+  position: fixed;
+  width: 100%;
+  padding: .3em;
+  text-align: center;
+}
