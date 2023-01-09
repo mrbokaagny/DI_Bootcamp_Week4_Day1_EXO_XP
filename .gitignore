@@ -83,3 +83,88 @@ EXO2/typings
 # System files
 EXO2/.DS_Store
 EXO2/Thumbs.db
+
+# ------------------------------ EXO 3 ----------------
+# Compiled output
+EXO3/dist
+EXO3/tmp
+EXO3/out-tsc
+EXO3/bazel-out
+
+# Node
+EXO3/node_modules
+EXO3/npm-debug.log
+EXO3/yarn-error.log
+
+# IDEs and editors
+EXO3/.idea/
+EXO3/.project
+EXO3/.classpath
+EXO3/.c9/
+EXO3/*.launch
+EXO3/.settings/
+EXO3/*.sublime-workspace
+
+# Visual Studio Code
+EXO3/.vscode/*
+EXO3/!.vscode/settings.json
+EXO3/!.vscode/tasks.json
+EXO3/!.vscode/launch.json
+EXO3/!.vscode/extensions.json
+EXO3/.history/*
+
+# Miscellaneous
+EXO3/.angular/cache
+EXO3/.sass-cache/
+EXO3/connect.lock
+EXO3/coverage
+EXO3/libpeerconnection.log
+EXO3/testem.log
+EXO3/typings
+
+# System files
+EXO3/.DS_Store
+EXO3/Thumbs.db
+
+
+# ------------------------------ EXO 4 ----------------
+# Compiled output
+EXO4/dist
+EXO4/tmp
+EXO4/out-tsc
+EXO4/bazel-out
+
+# Node
+EXO4/node_modules
+EXO4/npm-debug.log
+EXO4/yarn-error.log
+
+# IDEs and editors
+EXO4/.idea/
+EXO4/.project
+EXO4/.classpath
+EXO4/.c9/
+EXO4/*.launch
+EXO4/.settings/
+EXO4/*.sublime-workspace
+
+# Visual Studio Code
+EXO4/.vscode/*
+EXO4/!.vscode/settings.json
+EXO4/!.vscode/tasks.json
+EXO4/!.vscode/launch.json
+EXO4/!.vscode/extensions.json
+EXO4/.history/*
+
+# Miscellaneous
+EXO4/.angular/cache
+EXO4/.sass-cache/
+EXO4/connect.lock
+EXO4/coverage
+EXO4/libpeerconnection.log
+EXO4/testem.log
+EXO4/typings
+
+# System files
+EXO4/.DS_Store
+EXO4/Thumbs.db
